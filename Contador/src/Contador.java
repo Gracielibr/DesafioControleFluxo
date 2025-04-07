@@ -41,8 +41,8 @@ public class Contador {
         }
 
     
-        for (int i = parametroUm; i <= parametroDois; i++) {
-            System.out.println("Imprimir o número: " + i);
+        for (int x = parametroUm; x <= parametroDois; x++) {
+            System.out.println("Imprimir o número: " + x);
         }
     }
 }
